@@ -1,2 +1,2 @@
 # chat_application_udp_client_server
-A chat application with a single server and multiple clients were each client can interact and exchange message with each other in real time 
+A chat application with a single server and multiple clients were each client can interact and exchange message with each other in real time implemented in Python using socket programming and a graphical user interface (GUI). The server listens for incoming connections, while multiple clients can join the chat. Each client has a user-friendly GUI that allows sending and receiving text messages in real-time. Messages sent by one client are broadcasted to all connected clients via the server, enabling seamless communication between users.
